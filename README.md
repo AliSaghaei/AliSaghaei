@@ -1,4 +1,4 @@
-### Hi there, I'm Ali and I love to Code 👋
+### Hi there, I'm Ali and I love Coding 👋
 
 - 🔭 I’m currently working on a very special project!
 - 💬 Ask me about Javascript and Front End Development
